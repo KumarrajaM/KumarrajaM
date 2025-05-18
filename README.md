@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KumarrajaM
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
+- 🌱 I’m currently learning Python, Power BI, My Sql, Gen AI
 - 📫 How to reach me kumarraja.m55@gmail.com
 
 <!---
